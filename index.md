@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Wihman Setiawan Sakti
+### Full Stack Developer | Data Visualization Associates (Senior) | Microsoft Dynamics AX 2012 Technical
 
-You can use the [editor on GitHub](https://github.com/wihman/wihman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Full Stack Developer within 4+ years
+experience whois comfortable working With
+PHP Laravel, NodeJS, VueJS, HTML/CSS, UI/UX
+and build responsive Design to deliver
+exceptional customer experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+2010 - 2013 DIPLOMA III - INFORMATICS MANAGEMENT - POLINAS LP3I MAKASSAR
 
-### Markdown
+### Skills
+#### Experienced
+- Laravel
+- Vue Js
+- Mysql
+- Vuetify
+- JQuery
+- Microsoft Dynamics AX 2012 R2
+#### Beginner
+- Node Js
+- Nuxt Js
+- MongoDB
+- Express JS
+- Python
+- AWS EC2
+- AWS Lambda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Work Experience
+#### Full Stack Developer 2018 - Current | Holding Company Kalla Group
+```
+Creating operation app, and furthermore creating the dashboard to integrate all
+operation/legacy system as single view for top management and work as a full stack developer
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Tecnical Analyst Microsoft Dynamics AX (ERP) 2014 - 2018 | PT. Bumi Karsa
+```
+Support all operation ERP Application like create a new module, reports, maintenance
+application, data mart or make training if needed
+```
 
-### Jekyll Themes
+#### Web Developer 2012 - 2014 | PT. Bumi Karsa
+```
+Create web company profile or web application to support their operation
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wihman/wihman/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project
+My portfolio project click link : 
+[Wihman's Portfolio](https://drive.google.com/file/d/1eYgL_78tprKljKkJomDGKKiX-CrXLiif/view?usp=sharing)
